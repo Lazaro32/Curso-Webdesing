@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:auto;
+	width:960px;
+	padding:0px;
+	background:url(../img/barra.png) repeat-x;
+}
+#cab img{
+	float:left
+}
+header h1{
+	float: none;
+	margin: auto;
+	height: auto;
+	width: auto;
+	font-size: 110px;
+	font-style: italic;
+	font-weight: normal;
+	line-height: normal;
+	font-variant: normal;
+}
+
+#menu{
+	float: left;
+
+10px;0px;0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin: auto;
+}
+#menu ul{
+	list-style:none;
+	padding:0px;
+	margin:0px;
+}
+#menu li{
+	display:table-cell;
+}
